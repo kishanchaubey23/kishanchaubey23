@@ -64,7 +64,7 @@ A collaborative music-sharing platform that enables users to create shared liste
 
 ### 💳 Paytm Clone
 
-GitHub: https://github.com/kishanchaubey23/Paytm-project
+Live: https://paytm-project-user-app-zs3l.vercel.app/ 
 
 A full-stack fintech application inspired by Paytm featuring authentication, wallet management, and peer-to-peer money transfers.
 
@@ -81,7 +81,7 @@ A full-stack fintech application inspired by Paytm featuring authentication, wal
 
 ### 🛒 E-Commerce Platform
 
-GitHub: https://github.com/kishanchaubey23/Uniform-website
+Live: uniform-website-one.vercel.app
 
 A modern e-commerce platform featuring product browsing, cart management, and streamlined purchasing workflows.
 
