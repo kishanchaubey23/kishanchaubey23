@@ -81,7 +81,7 @@ A full-stack fintech application inspired by Paytm featuring authentication, wal
 
 ### 🛒 E-Commerce Platform
 
-Live: uniform-website-one.vercel.app
+Live: https://uniform-website-one.vercel.app/
 
 A modern e-commerce platform featuring product browsing, cart management, and streamlined purchasing workflows.
 
